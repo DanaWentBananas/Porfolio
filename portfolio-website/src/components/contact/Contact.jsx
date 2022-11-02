@@ -42,14 +42,14 @@ const Contact = () => {
                     <article className="contact-option">
                         <BsLinkedin className='contact-icon'/>
                         <h4>LinkedIn</h4>
-                        <a href="https://www.linkedin.com/in/danaalsani/" target='_blank'>Connect with me</a>
+                        <a href="https://www.linkedin.com/in/danaalsani/" target='_blank' rel="noreferrer">Connect with me</a>
                     </article>
 
                     <article className="contact-option">
                         <BsWhatsapp className='contact-icon'/>
                         <h4>Whatsapp</h4>
                         <h5>+971524926900</h5>
-                        <a href="https://api.whatsapp.com/send?phone+971524926900" target='_blank'>Text me</a>
+                        <a href="https://api.whatsapp.com/send?phone+971524926900" target='_blank' rel="noreferrer">Text me</a>
                     </article>
 
                 </div>
