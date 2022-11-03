@@ -21,8 +21,8 @@ const Portfolio = () => {
                     </div>
                     <h3>S3 Static Website</h3>
                     <div className="portfolio-item-cta">
-                        <a href="https://github.com/DanaWentBananas/s3Website.git" target='_blank' className='btn'>github link</a>
-                        <a href="https://s3.danaalsani.com" target='_blank' className="btn btn-primary">Live Demo</a>
+                        <a href="https://github.com/DanaWentBananas/s3Website.git" target='_blank' className='btn' rel="noreferrer">github link</a>
+                        <a href="https://s3.danaalsani.com" target='_blank' className="btn btn-primary" rel="noreferrer">Live Demo</a>
                     </div>
                 </article>
 
@@ -32,8 +32,8 @@ const Portfolio = () => {
                     </div>
                     <h3>Bloggly</h3>
                     <div className="portfolio-item-cta">
-                        <a href="https://github.com/DanaWentBananas/Bloggly.git" target='_blank' className='btn'>github link</a>
-                        <a href="https://bloggly.danaalsani.com" target='_blank' className="btn btn-primary">Live Demo</a>
+                        <a href="https://github.com/DanaWentBananas/Bloggly.git" target='_blank' className='btn' rel="noreferrer">github link</a>
+                        <a href="https://bloggly.danaalsani.com" target='_blank' className="btn btn-primary" rel="noreferrer">Live Demo</a>
                     </div>
                 </article>
 
@@ -43,7 +43,7 @@ const Portfolio = () => {
                     </div>
                     <h3>Portfolio item title</h3>
                     <div className="portfolio-item-cta">
-                        <a href="https://github.com/" target='_blank' className='btn'>github link</a>
+                        <a href="https://github.com/" target='_blank' className='btn' rel="noreferrer">github link</a>
                         <a href="" target='_blank' className="btn btn-primary">Live Demo</a>
                     </div>
                 </article>
@@ -54,7 +54,7 @@ const Portfolio = () => {
                     </div>
                     <h3>Python Projects</h3>
                     <div className="portfolio-item-cta">
-                        <a href="https://github.com/DanaWentBananas/PythonProjects.git" target='_blank' className='btn'>github link</a>
+                        <a href="https://github.com/DanaWentBananas/PythonProjects.git" target='_blank' className='btn' rel="noreferrer">github link</a>
                     </div>
                 </article>
 
@@ -64,7 +64,7 @@ const Portfolio = () => {
                     </div>
                     <h3>Portfolio item title</h3>
                     <div className="portfolio-item-cta">
-                        <a href="https://github.com/" target='_blank' className='btn'>github link</a>
+                        <a href="https://github.com/" target='_blank' className='btn' rel="noreferrer">github link</a>
                         <a href="" target='_blank' className="btn btn-primary">Live Demo</a>
                     </div>
                 </article>
@@ -75,7 +75,7 @@ const Portfolio = () => {
                     </div>
                     <h3>Portfolio item title</h3>
                     <div className="portfolio-item-cta">
-                        <a href="https://github.com/" target='_blank' className='btn'>github link</a>
+                        <a href="https://github.com/" target='_blank' className='btn' rel="noreferrer">github link</a>
                         <a href="" target='_blank' className="btn btn-primary">Live Demo</a>
                     </div>
                 </article>
