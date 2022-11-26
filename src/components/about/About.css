@@ -4,6 +4,10 @@
     gap: 20%;
 }
 
+.p {
+    width: 200px;
+}
+
 .about-me {
     width:100%;
     aspect-ratio: 1/1;

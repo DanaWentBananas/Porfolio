@@ -4,7 +4,7 @@ import IMG1 from '../../assets/proj1.png'
 import IMG2 from '../../assets/proj2.png'
 import IMG3 from '../../assets/proj3.png'
 import IMG4 from '../../assets/proj4.png'
-import IMG5 from '../../assets/proj5.jpg'
+import IMG5 from '../../assets/proj5.png'
 import IMG6 from '../../assets/proj6.png'
 
 const Portfolio = () => {
@@ -39,17 +39,6 @@ const Portfolio = () => {
 
                 <article className="portfolio-item">
                     <div className="portfolio-item-img">
-                        <img src={IMG3} alt="" />
-                    </div>
-                    <h3>Portfolio item title</h3>
-                    <div className="portfolio-item-cta">
-                        <a href="https://github.com/" target='_blank' className='btn' rel="noreferrer">github link</a>
-                        <a href="" target='_blank' className="btn btn-primary">Live Demo</a>
-                    </div>
-                </article>
-
-                <article className="portfolio-item">
-                    <div className="portfolio-item-img">
                         <img src={IMG4} alt="" />
                     </div>
                     <h3>Python Projects</h3>
@@ -60,23 +49,11 @@ const Portfolio = () => {
 
                 <article className="portfolio-item">
                     <div className="portfolio-item-img">
-                        <img src="" alt="" />
+                        <img src={IMG5} alt="" />
                     </div>
-                    <h3>Portfolio item title</h3>
+                    <h3>AI projects</h3>
                     <div className="portfolio-item-cta">
-                        <a href="https://github.com/" target='_blank' className='btn' rel="noreferrer">github link</a>
-                        <a href="" target='_blank' className="btn btn-primary">Live Demo</a>
-                    </div>
-                </article>
-
-                <article className="portfolio-item">
-                    <div className="portfolio-item-img">
-                        <img src={IMG6} alt="" />
-                    </div>
-                    <h3>Portfolio item title</h3>
-                    <div className="portfolio-item-cta">
-                        <a href="https://github.com/" target='_blank' className='btn' rel="noreferrer">github link</a>
-                        <a href="" target='_blank' className="btn btn-primary">Live Demo</a>
+                        <a href="https://github.com/DanaWentBananas/CVandML/tree/main/Projects" target='_blank' className='btn' rel="noreferrer">github link</a>
                     </div>
                 </article>
 
